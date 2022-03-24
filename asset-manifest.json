@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/imagequiz/static/js/main.e562c52a.js",
+    "index.html": "/imagequiz/index.html",
+    "main.e562c52a.js.map": "/imagequiz/static/js/main.e562c52a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e562c52a.js"
+  ]
+}
